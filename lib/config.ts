@@ -12,7 +12,7 @@ export const config = {
 
   // Données supprimées lors de la suppression du compte
   deletedData: [
-    "Votre compte et votre profil (nom, adresse e-mail, mot de passe)",
+    "Votre compte et votre profil (nom, adresse e-mail, telephone, mot de passe)",
     "Vos contenus et votre historique d'utilisation",
     "Vos préférences et paramètres",
   ],
